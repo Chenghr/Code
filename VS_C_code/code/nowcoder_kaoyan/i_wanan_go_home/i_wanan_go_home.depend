@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1586436443 source:f:\basic\nowcoder_kaoyan\i_wanan_go_home\main.cpp
+	<iostream>
+	<vector>
+	<cstdio>
+	<cstring>
+	<climits>
+	<queue>
+

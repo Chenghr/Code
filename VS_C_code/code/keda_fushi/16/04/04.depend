@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586661670 source:f:\basic\keda_fushi\16\04\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

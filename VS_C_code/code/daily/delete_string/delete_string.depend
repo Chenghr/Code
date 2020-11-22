@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587384593 source:f:\basic\daily\delete_string\main.cpp
+	<iostream>
+	<string>
+	<vector>
+

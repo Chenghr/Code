@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585794487 source:f:\basic\nowcoder_kaoyan\code\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+

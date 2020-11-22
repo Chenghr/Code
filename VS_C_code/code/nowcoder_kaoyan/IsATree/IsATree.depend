@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585730248 source:f:\basic\nowcoder_kaoyan\isatree\main.cpp
+	<iostream>
+	<vector>
+

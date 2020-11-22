@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585297784 source:f:\basic\nowcoder_kaoyan\prime_num\main.cpp
+	<iostream>
+	<vector>
+

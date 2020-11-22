@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585399297 source:f:\basic\nowcoder_kaoyan\tenvstwo\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
