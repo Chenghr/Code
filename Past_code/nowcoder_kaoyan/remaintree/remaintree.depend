@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585395311 source:f:\basic\nowcoder_kaoyan\remaintree\main.cpp
+	<iostream>
+	<algorithm>
+	<cstring>
+

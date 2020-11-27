@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1585139715 source:f:\basic\kaoyan\4.6\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cctype>
+

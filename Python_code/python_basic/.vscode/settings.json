@@ -1,0 +1,9 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "jupyter.jupyterServerType": "local",
+    "restructuredtext.confPath": "",
+    "cSpell.words": [
+        "isalnum"
+    ]
+}

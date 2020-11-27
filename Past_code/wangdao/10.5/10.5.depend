@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584346164 source:f:\basic\kaoyan\10.5\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

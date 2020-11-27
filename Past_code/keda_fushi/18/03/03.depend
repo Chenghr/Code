@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585552540 source:f:\basic\keda_fushi\18\03\main.cpp
+	<iostream>
+	<algorithm>
+

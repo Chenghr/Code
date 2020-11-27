@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586920030 source:f:\basic\daily\superprime\main.cpp
+	<iostream>
+	<vector>
+
