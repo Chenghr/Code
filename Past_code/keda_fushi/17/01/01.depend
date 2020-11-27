@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1585639489 source:f:\basic\keda_fushi\17\01\main.cpp
-	<iostream>
-	<fstream>
-	<string>
-	<cctype>
-

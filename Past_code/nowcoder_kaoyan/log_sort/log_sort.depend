@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1585793512 source:f:\basic\nowcoder_kaoyan\log_sort\main.cpp
-	<iostream>
-	<string>
-	<algorithm>
-	<cctype>
-

@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1583740953 source:f:\basic\kaoyan\8.2\main.cpp
-	<iostream>
-	<string>
-	<vector>
-	<algorithm>
-	<cstring>
-
